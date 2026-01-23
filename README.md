@@ -31,13 +31,13 @@ Vrinda Store aims to analyze its 2022 annual sales performance to gain deeper in
 
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~64%)
-- Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states by sales value ✅ (NO CHANGE)
+- Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states by sales value
 - The adult age group (30-49 years) contributes maximum sales (~50%)
-- Amazon leads with the highest number of orders (35%), followed by Myntra (23%) and Flipkart (21%) ← ONLY THIS LINE CHANGED
+- Amazon leads with the highest number of orders (35%), followed by Myntra (23%) and Flipkart (21%)
 - More than 90% of orders were successfully delivered
   
 ## Final Conclusion
-Improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+Based on the 2022 sales analysis, Vrinda Store should implement a targeted marketing strategy focused on women aged 30–49 in Maharashtra, Karnataka, and Uttar Pradesh, as this segment contributes the highest share of revenue. Strengthening promotional efforts on high-performing platforms such as Amazon, Myntra, and Flipkart, combined with personalized digital marketing campaigns, can further enhance customer engagement and drive sales growth while maintaining strong delivery performance.
 
 ## Tools & Techniques Used
 - Microsoft Excel
